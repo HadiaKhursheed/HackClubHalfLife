@@ -14,14 +14,14 @@
 
 ## Contents
 
-1. [2026-10-07 — I researched for the PCB](#2026-10-07-i-researched-for-the-pcb)
+1. [2026-10-07 — I researched for my PCB. Found the schematics, features and read datasheets. I also learned how the IC in my project will work along with other components connected to it. And documented my search and](#2026-10-07-i-researched-for-my-pcb-found-the-schematics-feat)
 
 ## Design
 
-### 2026-10-07 — I researched for the PCB
+### 2026-10-07 — I researched for my PCB. Found the schematics, features and read datasheets. I also learned how the IC in my project will work along with other components connected to it. And documented my search and
 
 **2.07h**
 
-I researched for the PCB
+I researched for my PCB. Found the schematics, features and read datasheets. I also learned how the IC in my project will work along with other components connected to it. And documented my search and made notes so it can help me add details about my project in github repo.
 
 [Timelapse](https://lookout.hackclub.com/api/media/f99bfb23-9c5c-4ec5-ab4c-3eb4abec284a/video.mp4)
