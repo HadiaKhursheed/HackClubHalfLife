@@ -20,7 +20,7 @@
 | [Jumper wires](https://robu.in/product/male-to-female-jumper-wires-40-pin-40cm/) | to connect pcb pins to esp32 pins | 1 | $1.02 | $1.02 | [Robu.in](https://robu.in/product/male-to-female-jumper-wires-40-pin-40cm/) |
 | [Printed Circuit Board](https://robu.in/product/online-pcb-manufacturing-service/) | making the project | 1 | $10.20 | $10.20 | [Robo.in](https://robu.in/product/online-pcb-manufacturing-service/) |
 | **Parts subtotal** | — | — | — | **$15.63** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$15.63** | — |
+| **Tax & shipping** | — | — | — | **$5.00** | — |
+| **Total** | — | — | — | **$20.63** | — |
 
-$14.37 left of the tier's funding.
+$9.37 left of the tier's funding.
