@@ -19,7 +19,7 @@
 3. [2026-10-09 – Work session](#2026-10-09-work-session)
 4. [2026-10-09 – Work session](#2026-10-09-work-session)
 5. [2026-10-10 – Routing PCB was so confusing for me. Will try again soon.](#2026-10-10-routing-pcb-was-so-confusing-for-me-will-try-agai)
-6. [2026-10-10 – Work session](#2026-10-10-work-session)
+6. [2026-10-10 – Tracked my code time in Hackatime](#2026-10-10-tracked-my-code-time-in-hackatime)
 
 ## Design
 
@@ -61,8 +61,10 @@ Routing PCB was so confusing for me. Will try again soon.
 
 [Timelapse](https://lookout.hackclub.com/api/media/4f08e2e6-07bb-4cc3-8e93-15b7ec8d9de5/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – Tracked my code time in Hackatime
 
 **0.92h**
+
+Tracked my code time in Hackatime
 
 [Timelapse](https://lookout.hackclub.com/api/media/7a1301a0-673e-4d45-b5c1-eebc43a4f397/video.mp4)
