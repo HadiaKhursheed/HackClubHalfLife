@@ -18,7 +18,7 @@
 2. [2026-10-08 – I made my pcb's schematic diagram. But face issues to convert into pcb.](#2026-10-08-i-made-my-pcbs-schematic-diagram-but-face-issues-)
 3. [2026-10-09 – Work session](#2026-10-09-work-session)
 4. [2026-10-09 – Work session](#2026-10-09-work-session)
-5. [2026-10-10 – Work session](#2026-10-10-work-session)
+5. [2026-10-10 – Routing PCB was so confusing for me. Will try again soon.](#2026-10-10-routing-pcb-was-so-confusing-for-me-will-try-agai)
 
 ## Design
 
@@ -52,8 +52,10 @@ I made my pcb's schematic diagram. But face issues to convert into pcb.
 
 [Timelapse](https://lookout.hackclub.com/api/media/a53d7fef-7118-432c-afac-6067e46a6a9b/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – Routing PCB was so confusing for me. Will try again soon.
 
 **0.43h**
+
+Routing PCB was so confusing for me. Will try again soon.
 
 [Timelapse](https://lookout.hackclub.com/api/media/4f08e2e6-07bb-4cc3-8e93-15b7ec8d9de5/video.mp4)
